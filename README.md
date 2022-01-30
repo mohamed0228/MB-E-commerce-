@@ -4,20 +4,23 @@
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description 
+🔍 A mysql database and application backend for an e-commerce site. Built using MySQL2, Express, Sequelize and dotenv.
 
-Developers are often tasked with creating interfaces that make it easy for non-developers to view and interact with information stored in databases. Often these interfaces are known as Content Management Systems. In this homework assignment, your challenge is to architect and build a solution for managing a ecommerce app using node , and MySQL.
+💻 Below is the gif showing the functionality of the application:
+
 
 ### App working example
 
   
-[Video Link App Working](https://drive.google.com/file/d/16JUN2I-RTrpm27yqwN9kSBm2GpV8TpVb/view)
+[Video Link App Working]
+(public/video.gif)
 
 ### App Screen Shots
 
-![Foto1](pic.png) 
-![Foto2](pic1.png)   
-![Foto3](pic2.png)
-![Foto4](pic3.png)
+![Foto1](public/pic.png) 
+![Foto2](public/pic1.png)   
+![Foto3](public/pic2.png)
+![Foto4](public/pic3.png)
 ## Table of contents
 
 - [Description](#Description)
@@ -53,14 +56,15 @@ The application will be invoked with the following command:
 ## Licence
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-
+## walkthrough videp link :
+(https://drive.google.com/file/d/1e271s3GByZB1pKJJfCKqePS_LbOIcTZA/view)
 ## Repository
 
 - [Project Repo](https://github.com/mohamed0228/MB-E-commerce-)
 
 ## GitHub
 
-![Image of me](pic4.png)
+![Image of me](public/pic4.png)
 - mohammed boussaada
 - [GitHub Profile](https://github.com/mohamed0228)
 ## Contribution
